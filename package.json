@@ -1,8 +1,13 @@
 {
   "name": "snazzy-ts",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "bin": "./cli.js",
+  "files": [
+    "cli.js",
+    "index.ts",
+    "dist"
+  ],
   "devDependencies": {
     "@types/log-symbols": "2.0.0",
     "@types/log-update": "2.0.0",
